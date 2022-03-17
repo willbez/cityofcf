@@ -1,0 +1,13 @@
+name: CityProjects
+title: CityProjects
+username:
+account: cityofcf
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5869963
+bundleId: 5692980
+url: https://cityofcf.shinyapps.io/CityProjects/
+when: 1647463177.77565
+lastSyncTime: 1647463177.77565
+asMultiple: FALSE
+asStatic: FALSE
